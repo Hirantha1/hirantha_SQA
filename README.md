@@ -1,2 +1,2 @@
 # hirantha_SQA
-This is my first excercise with GITHUB
+Hope it could be easy for me
